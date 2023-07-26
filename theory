@@ -1,0 +1,7 @@
+crawl data
+scraping data
+
+1. Các thư viện hỗ trợ
+- JSOUP (api, html)
+- Puppeteer (tự động điều khiển và lấy dữ liệu trên html)
+
